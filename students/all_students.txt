@@ -1,22 +1,22 @@
 List of students in UAV Class:
 
 Jane Doe:
-
+CHANGEME TO AN AWESOME MESSAGE!
 
 John Doe:
-
+CHANGEME TO AN AWESOME MESSAGE!
 
 Gary Ellingson:
-
+CHANGEME TO AN AWESOME MESSAGE!
 
 Michael Farrell:
-
+CHANGEME TO AN AWESOME MESSAGE!
 
 Dan Koch:
-
+CHANGEME TO AN AWESOME MESSAGE!
 
 James Jackson:
-
+CHANGEME TO AN AWESOME MESSAGE!
 
 
 Please add a message on the line directly under your name.

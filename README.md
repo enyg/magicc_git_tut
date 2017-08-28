@@ -10,7 +10,7 @@ To receive full credit you must:
 - on your new branch:
   - add a message under your name in the students/all_students.txt file
   - commit the changes with a meaningful commit message
-  - merge the "allstudents" branch into your new branch
+  - merge the "students" branch into your new branch
   - resolve the merge conflicts
   - push up your branch to GitHub
   - Submit a pull request, merging your new branch into master
